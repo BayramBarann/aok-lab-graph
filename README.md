@@ -17,7 +17,7 @@ Uygulama; X ve Y verilerinin girilmesini, deneysel verilerin grafik üzerinde g�
 
 ## Ekran Görüntüsü
 
-![AOK LAB uygulama arayüzü](C:\Users\HP\Desktop\ALAYI\Projeler\aoklab-lineergraph\assets\screeenshots\aoklabpng.png)
+![AOK LAB uygulama arayüzü](assets/screeenshots/aoklabpng.png)
 
 ## Kullanılan Teknolojiler
 
