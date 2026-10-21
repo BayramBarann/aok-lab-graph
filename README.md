@@ -9,7 +9,7 @@ Uygulama; X ve Y verilerinin girilmesini, deneysel verilerin grafik üzerinde g�
 - **Grafiksel Kullanıcı Arayüzü:** Tkinter ile geliştirilmiş sade ve kullanımı kolay arayüz.
 - **Deneysel Veri Görselleştirme:** X ve Y verilerini grafik üzerinde noktalar hâlinde gösterme.
 - **Doğrusal Regresyon:** En iyi uyum doğrusunun eğimini ve y-kesişimini hesaplama.
-- **İstatistiksel Analiz:** Belirleme katsayısını (\(R^2\)) hesaplama.
+- **İstatistiksel Analiz:** Belirleme katsayısını (R²) hesaplama.
 - **Özelleştirilebilir Grafikler:** Grafik başlığını ve eksen etiketlerini değiştirebilme.
 - **Yüksek Çözünürlüklü Çıktı:** Grafikleri 300 DPI çözünürlükte PNG formatında kaydetme.
 - **Koyu Tema:** Siyah arka plan, camgöbeği ve mavi tonlarıyla tasarlanmış grafikler.
