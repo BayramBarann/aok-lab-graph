@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+*.spec
+
+# IDE
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
