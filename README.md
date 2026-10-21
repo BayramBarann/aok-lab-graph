@@ -105,11 +105,10 @@ Uygulamayı Python üzerinden çalıştırmak veya geliştirmek isteyen kullanı
 ### 1. Depoyu klonlayın
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AOK-LAB.git
+git clone (https://github.com/BayramBarann/aok-lab-graph).git
 cd AOK-LAB
 ```
 
-`YOUR_USERNAME` kısmını GitHub kullanıcı adınızla değiştirin.
 
 ### 2. Sanal ortam oluşturun
 
