@@ -19,6 +19,9 @@ Uygulama; X ve Y verilerinin girilmesini, deneysel verilerin grafik üzerinde g�
 
 ![AOK LAB uygulama arayüzü](assets/screeenshots/aoklabpng.png)
 
+
+## Örnek Grafik 
+![Örnek Grafik](assets/screeenshots/AOK_Genel_Grafik.png)
 ## Kullanılan Teknolojiler
 
 | Teknoloji | Kullanım amacı |
